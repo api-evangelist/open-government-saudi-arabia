@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Saudi Arabia
     description: "Saudi Arabia Government Open Data"
     humanURL: https://data.gov.sa
-    baseURL: https://data.gov.sa
     tags:
       - Government
     properties:
